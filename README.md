@@ -11,7 +11,6 @@ This repository hosts the source Markdown files and configuration for our "book-
 For the best reading experience, including navigation, search, and a clean layout, please visit the live documentation site:
 
 **[Visit The Healer's Codex Online Here](https://yourusername.github.io/your-repo-name/)**
-*(Remember to replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.)*
 
 ---
 
