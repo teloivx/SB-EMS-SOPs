@@ -1,4 +1,4 @@
-# 📜 The Healer's Codex: Standard Operating Procedures 📜
+# 📜 The Healer's Codex: SOPs 📜
 
 *By Order of the Regent Sage*
 
