@@ -17,12 +17,3 @@ Let it be known: corruption within our ranks shall not be met with mercy. Those 
 You are Sageborn. Hold fast to your purpose.
 
 ---
-
-## Table of Contents
-
-- [Chapter I: The Healer's Oath & Conduct](chapter-1-oath-conduct.md)
-- [Chapter II: Operational Protocols](chapter-2-operational.md)
-- [Chapter III: Medical & Magical Practices](chapter-3-medical-magical.md)
-- [Chapter IV: Advancement & Accountability](chapter-4-advancement.md)
-
----
